@@ -1,1 +1,1 @@
-# tetris
+# Algorithm is playing TETRIS
